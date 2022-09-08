@@ -12,9 +12,9 @@ For my project I tested this hypothesis: Car price and customer satisfaction wil
 
 5.) Import modules needed for visualization
 
-6.) Visualize distribution of each price range
+6.) Visualize distribution of each price range (this is incldued in PriceDist.png)
 
-7.) Now lets use a scatterplot to see if there is any correlation between price and customer satisfaction!
+7.) Now lets use a scatterplot to see if there is any correlation between price and customer satisfaction (this is included in priceVSrating.png)
 
 Conclusion:
 
