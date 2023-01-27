@@ -21,3 +21,8 @@ Conclusion:
 Looks like our hypothesis was wrong. There is no apparent correlation shown in the scatterplot.
 
 ***Did not finish- not sure why $90k range is out of order on the x axis.
+
+Findings:
+
+<img width="1051" alt="PriceDist" src="https://user-images.githubusercontent.com/70988841/215040511-b5f48089-4fdf-4b94-a9f5-54e5d47a864f.png">
+<img width="1067" alt="priceVSrating" src="https://user-images.githubusercontent.com/70988841/215040528-74f109b9-33cf-43e9-bed0-c8c3ad231607.png">
